@@ -2,6 +2,7 @@
 - 👀 I’m interested in data management, database design, big data technologies, and the field of international and consular affairs.
 - 🌱 I’m currently learning advanced database systems, machine learning, and exploring international relations.
   
+[![](https://visitcount.itsvg.in/api?id=legilimensjohn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iostream.j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legilimensjohn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnchristianventura@gmail.com) 
@@ -16,14 +17,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=legilimensjohn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=legilimensjohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=legilimensjohn&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legilimensjohn&label=Profile%20views&color=0e75b6&style=flat" alt="legilimensjohn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legilimensjohn" alt="legilimensjohn" /></a> </p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=legilimensjohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
