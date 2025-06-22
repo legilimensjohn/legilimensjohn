@@ -2,7 +2,7 @@
 - 👀 I’m interested in data management, database design, big data technologies, and the field of international and consular affairs.
 - 🌱 I’m currently learning advanced database systems, machine learning, and exploring international relations.
   
-
+![](https://komarev.com/ghpvc/?username=legilimensjohn&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iostream.j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legilimensjohn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnchristianventura@gmail.com) 
