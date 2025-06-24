@@ -1,6 +1,5 @@
 - 👋 Hi, I’m John Christian Ventura
-- 👀 I’m interested in data management, database design, big data technologies, and the field of international and consular affairs.
-- 🌱 I’m currently learning advanced database systems, machine learning, and exploring international relations.
+  
   
 ![](https://komarev.com/ghpvc/?username=legilimensjohn&color=blue)
 
